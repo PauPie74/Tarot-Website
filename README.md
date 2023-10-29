@@ -1,6 +1,6 @@
 # Tarot-Website
 
-> Link: [https://paupie74.github.io/Solar_System_Page/](https://paupie74.github.io/Tarot-Website/)
+> Link: [https://paupie74.github.io/Tarot-Website/](https://paupie74.github.io/Tarot-Website/)
 
 Website that displays random Tarot cards.
 
