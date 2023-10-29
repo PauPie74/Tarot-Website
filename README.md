@@ -12,7 +12,7 @@ Tarot cards decks are used only for education purposes.
 * Rider Waite deck
 * Light seer's Tarot by Chris-Anne Donelly
 
-Additionally, python script that automatically takes multiple text files and converts them into one file in format of an javascript object in card format.
+Additionally, python script that automatically takes multiple text files and puts them into a javascript card object template.
 
 > Last update: July 2023
 
